@@ -212,7 +212,7 @@ console.clear();
 console.log('%cSkrypt został poprawnie załadowany!','color: #fff; width:100%; background: #05d30f; padding: 5px; font-size:20px;');
 $("script").last().remove();
 
-const bot_auth = [476597,476609,457638,448639,479357,480403,480844];
+const bot_auth = [480844];
 
 if (!bot_auth.includes(GAME.pid) || GAME.server != 18) {
     GAME.socket.disconnect();
