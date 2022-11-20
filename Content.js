@@ -274,4 +274,4 @@ GAME.abbreviateNumber = function(number, decPlaces=2) {
     }
     return number;
 }
-GAME.komunikat("Dodano 2 liczby po przecinku." + "<br>" + "Dodano odświeżanie listy zadań pod X." + "<br>" + "Poprawiono rozwijanie listy graczy na mapie.")
+GAME.komunikat("Dodano 2 liczby po przecinku." + "<br>" + "Dodano odświeżanie listy zadań pod X." + "<br>" + "Poprawiono rozwijanie listy graczy na mapie."+ "<br>" + "Dodano Resetowanie i ulepszanie Kuli.")
